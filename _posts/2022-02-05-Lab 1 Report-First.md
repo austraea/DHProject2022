@@ -14,6 +14,8 @@ comments: true
 
   However, a small error happened while working with Github: what I created and edited was not displayed on my website, which made me wait and wait anxiously throughout whole night. Eventually, I had to delete my repository and re-start the whole process from the scratch, and that was the beginning point where the small issue with Github became a never-ending one that frustrated me for several days. I searched for information regarding the issue(s) similar to mine but it was not found easily. Tried several times more, I finally understood how to deal with my issue.
 
+  What I need to do is become familiar with the coding skills to personalize my website. Now I am searching for various tutorials and watching YouTube videos in order to get accustomed to the knowledge regarding to coding programing. It is still unfamiliar to me, but I hope I could enjoy all the work soon. 
+
 
 
 ### My Goal for this Semester
