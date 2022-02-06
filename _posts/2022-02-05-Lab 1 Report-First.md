@@ -18,7 +18,7 @@ comments: true
 
 
 
-**My Goal for this Semester**
+**My Goals for this Semester**
 
   My primary goal for this course is to become accustomed to and familiar with the knowledge and skills I am working with and DH research methods. At the field of academy where my academic interests lie, Early Modern literature studies, Digital Humanities research approaches are common. Last semester, I could experience the fascinating world of Book History research through various online resources, especially EEBO (Early English Books Online), which I had not have accessed to when I was in Korea due to the limited information about DH research to the students and school’s cutting off subscribing EEBO. I am sure that gaining the skills related to DH research would expand my insights and potentialities of my current and future research and it would be a precious academic asset and appealing advantage for me in job market.
 
