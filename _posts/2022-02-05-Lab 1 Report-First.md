@@ -12,7 +12,8 @@ comments: true
 
   Stepping into the unknown world of Github was thrilling but puzzling, simultaneously. I have not been familiar with the knowledge related to computer programming and coding, which made me nervous to explore the world of Github. Contrary to my first impression, Github interface is approachable to the beginners, like me, if following the instructions carefully. I really enjoyed exploring the Github interface, and Github desk program and Atom were easy tools, as well. I hoped that I could become accustomed to and familiar with the whole process soon.
 
-  However, a small error happened while working with Github: what I created and edited was not displayed on my website, which made me wait and wait anxiously throughout whole night. Eventually, I had to delete my repository and re-start the whole process from the scratch, and that was the beginning point where the small issue with Github became a never-ending one that frustrated me for several days. I searched for information regarding the issue(s) similar to mine but it was not found easily. Tried several times more, I finally understood how to deal with my issue. 
+  However, a small error happened while working with Github: what I created and edited was not displayed on my website, which made me wait and wait anxiously throughout whole night. Eventually, I had to delete my repository and re-start the whole process from the scratch, and that was the beginning point where the small issue with Github became a never-ending one that frustrated me for several days. I searched for information regarding the issue(s) similar to mine but it was not found easily. Tried several times more, I finally understood how to deal with my issue.
+
 
 
 ### My Goal for this Semester
