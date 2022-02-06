@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-**My New Experience of Github**
+**My First Experience of Github**
 
   Stepping into the unknown world of Github was thrilling but puzzling, simultaneously. I have not been familiar with the knowledge related to computer programming and coding, which made me nervous to explore the world of Github. Contrary to my first impression, Github interface is approachable to the beginners, like me, if following the instructions carefully. I really enjoyed exploring the Github interface, and Github desktop program and Atom were easy tools, as well. I hoped that I could become accustomed to and familiar with the whole process soon.
 
