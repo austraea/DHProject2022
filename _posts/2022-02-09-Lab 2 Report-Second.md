@@ -10,9 +10,10 @@ comments: true
 
 ### Exploring HathiTrust Dataset and Trans-Atlantic Slave Trade Dataset
 
-1. [HathiTrust dataset](https://docs.google.com/spreadsheets/d/1uEx-oovcXQnxb78AdbXhIyvm-cKApDKdfWRBWQLeX0I/edit#gid=219124820)
 
-2. [Trans-Atlantic Slave Trade Dataset](https://docs.google.com/spreadsheets/d/12xHXV0ci9w0gEbFztCvNfAOoIOIWstBKTUG04WDm1JY/edit#gid=74604870)
+[1. HathiTrust dataset](https://docs.google.com/spreadsheets/d/1uEx-oovcXQnxb78AdbXhIyvm-cKApDKdfWRBWQLeX0I/edit#gid=219124820)
+
+[2. Trans-Atlantic Slave Trade Dataset](https://docs.google.com/spreadsheets/d/12xHXV0ci9w0gEbFztCvNfAOoIOIWstBKTUG04WDm1JY/edit#gid=74604870)
 
 
 **HathiTrust Dataset**
