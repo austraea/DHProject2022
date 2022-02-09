@@ -8,7 +8,7 @@ tags: [lab 2]
 comments: true
 ---
 
-###Exploring HathiTrust Dataset and Trans-Atlantic Slave Trade Dataset
+### Exploring HathiTrust Dataset and Trans-Atlantic Slave Trade Dataset
 
 [HathiTrust dataset](https://docs.google.com/spreadsheets/d/1uEx-oovcXQnxb78AdbXhIyvm-cKApDKdfWRBWQLeX0I/edit#gid=219124820)
 
