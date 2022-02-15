@@ -8,13 +8,14 @@ tags: [lab 3]
 comments: true
 ---
 
-### Magical World of RegEx
-First Trial
+## Magical World of RegEx
+
+**First Trial**
 1. Remove all special characters except for “;, ü, and &”
 
-RegEx: [^(A-Za-z0-9;&ü)\s]
+  RegEx: [^(A-Za-z0-9;&ü)\s]
 
-Sub: null
+  Sub: null
 
 `````
 The Epoch Times New York ed; New York (NY)
