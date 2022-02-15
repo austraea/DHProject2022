@@ -10,7 +10,9 @@ comments: true
 
 ## Magical World of RegEx
 
-### Working with Sample Data
+Working with Sample Data
+------------------------
+
 
 
 **First Trial**
@@ -37,7 +39,7 @@ Sub: CO
 5. Substitute “Boston” to “Boston MA”    
 RegEx: Boston    
 Sub: Boston MA    
-*in this case, turn off the RegEx Flags, g and m*       
+`in this case, turn off the RegEx Flags, g and m`       
 [Output 5](https://regex101.com/r/wBWjt1/1)<br/>        
 
 6. Substitute “Md” to “MD”    
@@ -57,8 +59,8 @@ Sub: null
 
 1. Remove all special characters except for “; and &”    
 RegEx:<br/>
-a. [,.(\)"[\]?] or<br/>
-b.[_%+,."?[\]()]+    
+  a. [,.(\)"[\]?] or<br/>
+  b. [_%+,."?[\]()]+    
 Sub: null      
 [Output 1.a.](https://regex101.com/r/1jlfvl/1)      
 [Output 1.b.](https://regex101.com/r/EDciXI/1)    
@@ -75,7 +77,7 @@ Sub: CO
 4. Substitute “Boston” to “Boston MA”    
 RegEx: Boston    
 Sub: Boston MA    
-*in this case, turn off the RegEx Flags, g and m*       
+`in this case, turn off the RegEx Flags, g and m`       
 [Output 4](https://regex101.com/r/wBWjt1/1)    
 
 5. Substitute “Md” to “MD”    
