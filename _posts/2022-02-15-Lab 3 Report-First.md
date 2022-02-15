@@ -12,55 +12,78 @@ comments: true
 
 **First Trial**
 
-1. Remove all special characters except for ";, ü, and &"    
-RegEx: [^(A-Za-z0-9;&ü)\s]     
-Sub: null     
-[Output](https://regex101.com/r/qh0rqR/1) 
+1. Remove all special characters except for “;, ü, and &”    
+RegEx: [^(A-Za-z0-9;&ü)\s]    
+Sub: null    
+[Output 1](https://regex101.com/r/qh0rqR/1)
 
-2. Remove the parentheses     
-RegEx: [()]
+2. Remove the parentheses    
+RegEx: [()]    
+Sub: null    
+[Output 2](https://regex101.com/r/tILcdu/1)
+
+3. Substitute “;” to “,”    
+RegEx: ;    
+Sub: ,    
+[Output 3](https://regex101.com/r/JvgoiQ/1)
+
+4. Substitute “Colo” to “CO”    
+RegEx: Colo    
+Sub: CO    
+
+5. Substitute “Boston” to “Boston MA”    
+RegEx: Boston    
+Sub: Boston MA    
+* in this case, turn off the RegEx Flags, g and m    
+[Output 5](https://regex101.com/r/wBWjt1/1)
+
+6. Substitute “Md” to “MD”    
+RegEx: Md    
+Sub: MD    
+
+7. Substitute “Virginia” to “VA”    
+RegEx: Virginia    
+Sub: VA    
+
+8. Remove “amp,”    
+RegEx: amp,    
+Sub: null    
+
+**Second Trial**
+
+1. Remove all special characters except for “; and &”
+1-1. RegEx: [,.(\)"[\]?]
 Sub: null
-``````
-The Epoch Times New York ed; New York (NY)
-La Voz Bilingüe; Denver Colo
-Jewish Advocate; Boston
-Washington Informer; Washington DC
-News from Indian Country; Hayward WI
-Afro  American 5 Star edition; Baltimore Md
-Diverse Issues in Higher Education; Fairfax Virginia
-The Gay &amp; Lesbian Review Worldwide; Boston MA
-The Hispanic Outlook in Higher Education; Paramus NJ
-``````
+https://regex101.com/r/1jlfvl/1
 
+1-2. [_%+,."?[\]()]+
+Sub: null
+https://regex101.com/r/EDciXI/1
 
-1. Remove all the special characters except for “;, ü, and &”     
-RegEx: [^(A-Za-z0-9;&ü)\s]     
-Sub: null<br/>
-```
-The Epoch Times New York ed; New York (NY)
-La Voz Bilingüe; Denver Colo
-Jewish Advocate; Boston
-Washington Informer; Washington DC
-News from Indian Country; Hayward WI
-Afro  American 5 Star edition; Baltimore Md
-Diverse Issues in Higher Education; Fairfax Virginia
-The Gay &amp; Lesbian Review Worldwide; Boston MA
-The Hispanic Outlook in Higher Education; Paramus NJ
-```
+2. Substitute “;” to “,”
+RegEx: ;
+Sub: ,
+https://regex101.com/r/JvgoiQ/1
 
-2. Remove the parentheses<br/>
-RegEx: [()]<br/>
-Sub: null<br/>
-```
-The Epoch Times New York ed; New York NY
-La Voz Bilingüe; Denver Colo
-Jewish Advocate; Boston
-Washington Informer; Washington DC
-News from Indian Country; Hayward WI
-Afro  American 5 Star edition; Baltimore Md
-Diverse Issues in Higher Education; Fairfax Virginia
-The Gay &amp; Lesbian Review Worldwide; Boston MA
-The Hispanic Outlook in Higher Education; Paramus NJ
-```
+3. Substitute “Colo” to “CO”
+RegEx: Colo
+Sub: CO
 
-3.
+4. Substitute “Boston” to “Boston MA”
+RegEx: Boston
+Sub: Boston MA
+* in this case, turn off the RegEx Flags, g and m
+https://regex101.com/r/wBWjt1/1
+
+5. Substitute “Md” to “MD”
+RegEx: Md
+Sub: MD
+
+6. Substitute “Virginia” to “VA”
+RegEx: Virginia
+Sub: VA
+
+7. Remove “amp,”
+RegEx: amp,
+Sub: null
+https://regex101.com/r/ptHWbD/1
