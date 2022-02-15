@@ -13,9 +13,9 @@ comments: true
 **First Trial**
 1. Remove all special characters except for “;, ü, and &”
 
-  RegEx: [^(A-Za-z0-9;&ü)\s]
+>>RegEx: [^(A-Za-z0-9;&ü)\s]
 
-  Sub: null
+>>Sub: null
 
 `````
 The Epoch Times New York ed; New York (NY)
@@ -30,11 +30,11 @@ The Hispanic Outlook in Higher Education; Paramus NJ
 
 `````
 
-2. Remove the parentheses
+1. Remove the parentheses
 
-RegEx: [()]
+>>RegEx: [()]
 
-Sub: null
+>>Sub: null
 
 `````
 `````
