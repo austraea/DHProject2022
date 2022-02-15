@@ -8,4 +8,4 @@ tags: [lab 3]
 comments: true
 ---
 
-###Journey to the world of REGEX
+###Journey to the world of RegEx
