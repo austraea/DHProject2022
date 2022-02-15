@@ -11,7 +11,9 @@ comments: true
 ### Magical World of RegEx
 First Trial
 1. Remove all special characters except for “;, ü, and &”
+
 RegEx: [^(A-Za-z0-9;&ü)\s]
+
 Sub: null
 
 `````
@@ -27,8 +29,13 @@ The Hispanic Outlook in Higher Education; Paramus NJ
 `````
 
 2. Remove the parentheses
+
 RegEx: [()]
+
 Sub: null
+
+`````
+`````
 
 
 3. Substitute “;” to “,”
