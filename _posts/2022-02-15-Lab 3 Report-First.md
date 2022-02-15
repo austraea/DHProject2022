@@ -56,13 +56,13 @@ Sub: null
 **Second Trial**
 
 1. Remove all special characters except for “; and &”    
-1.1. RegEx: [,.(\)"[\]?]    
+1.a. RegEx: [,.(\)"[\]?]    
 Sub: null    
-[Output 1.1.](https://regex101.com/r/1jlfvl/1)    
+[Output 1.a.](https://regex101.com/r/1jlfvl/1)    
 
-1.2. [_%+,."?[\]()]+    
+1.b. [_%+,."?[\]()]+    
 Sub: null    
-[Output 1.2.](https://regex101.com/r/EDciXI/1)    
+[Output 1.b.](https://regex101.com/r/EDciXI/1)    
 
 2. Substitute “;” to “,”    
 RegEx: ;    
