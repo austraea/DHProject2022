@@ -10,6 +10,9 @@ comments: true
 
 ## Magical World of RegEx
 
+### Working with Sample Data
+
+
 **First Trial**
 
 1. Remove all special characters except for “;, ü, and &”    
@@ -35,7 +38,7 @@ Sub: CO
 RegEx: Boston    
 Sub: Boston MA    
 + in this case, turn off the RegEx Flags, g and m    
-[Output 5](https://regex101.com/r/wBWjt1/1)    
+[Output 5](https://regex101.com/r/wBWjt1/1)     
 
 6. Substitute “Md” to “MD”    
 RegEx: Md    
