@@ -11,11 +11,10 @@ comments: true
 ## Magical World of RegEx
 
 **First Trial**
-1. Remove all special characters except for “;, ü, and &”
 
->>RegEx: [^(A-Za-z0-9;&ü)\s]
-
->>Sub: null
+1. Remove all special characters except for “;, ü, and &”<br/>
+RegEx: [^(A-Za-z0-9;&ü)\s]<br/>
+Sub: null<br/>
 
 `````
 The Epoch Times New York ed; New York (NY)
@@ -30,47 +29,38 @@ The Hispanic Outlook in Higher Education; Paramus NJ
 
 `````
 
-1. Remove the parentheses
-
->>RegEx: [()]
-
->>Sub: null
+2. Remove the parentheses<br/>
+RegEx: [()]<br/>
+Sub: null<br/>
 
 `````
 `````
 
 
-3. Substitute “;” to “,”
-RegEx: ;
-Sub: ,
+3. Substitute “;” to “,”<br/>
+RegEx: ;<br/>
+Sub: ,<br/>
 
 
-4. Substitute “Colo” to “CO”
-RegEx: Colo
-Sub: CO
+4. Substitute “Colo” to “CO”<br/>
+RegEx: Colo<br/>
+Sub: CO<br/>
 
 
-5. Substitute “Boston” to “Boston MA”
-
-RegEx: Boston
-
-Sub: Boston MA
-
-* in this case, turn off the RegEx Flags, g and m
+5. Substitute “Boston” to “Boston MA”<br/>
+RegEx: Boston<br/>
+Sub: Boston MA<br/>
+* in this case, turn off the RegEx Flags, g and m<br/>
 
 
-6. Substitute “Md” to “MD”
-
-RegEx: Md
-
-Sub: MD
+6. Substitute “Md” to “MD”<br/>
+RegEx: Md<br/>
+Sub: MD<br/>
 
 
-7. Substitute “Virginia” to “VA”
-
-RegEx: Virginia
-
-Sub: VA
+7. Substitute “Virginia” to “VA”<br/>
+RegEx: Virginia<br/>
+Sub: VA<br/>
 
 
 8. Remove “amp,”
