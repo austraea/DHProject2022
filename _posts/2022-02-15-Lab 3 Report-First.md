@@ -15,8 +15,7 @@ comments: true
 1. Remove all the special characters except for “;, ü, and &”<br/>
 RegEx: [^(A-Za-z0-9;&ü)\s]<br/>
 Sub: null<br/>
-
-`````
+```
 The Epoch Times New York ed; New York (NY)
 La Voz Bilingüe; Denver Colo
 Jewish Advocate; Boston
@@ -26,12 +25,12 @@ Afro  American 5 Star edition; Baltimore Md
 Diverse Issues in Higher Education; Fairfax Virginia
 The Gay &amp; Lesbian Review Worldwide; Boston MA
 The Hispanic Outlook in Higher Education; Paramus NJ
-`````
+```
 
 2. Remove the parentheses<br/>
 RegEx: [()]<br/>
 Sub: null<br/>
-`````
+```
 The Epoch Times New York ed; New York NY
 La Voz Bilingüe; Denver Colo
 Jewish Advocate; Boston
@@ -41,4 +40,6 @@ Afro  American 5 Star edition; Baltimore Md
 Diverse Issues in Higher Education; Fairfax Virginia
 The Gay &amp; Lesbian Review Worldwide; Boston MA
 The Hispanic Outlook in Higher Education; Paramus NJ
-`````
+```
+
+3. 
