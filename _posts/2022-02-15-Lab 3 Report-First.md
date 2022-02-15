@@ -37,8 +37,8 @@ Sub: CO
 5. Substitute “Boston” to “Boston MA”    
 RegEx: Boston    
 Sub: Boston MA    
-+ in this case, turn off the RegEx Flags, g and m    
-[Output 5](https://regex101.com/r/wBWjt1/1)<br/>    
+*in this case, turn off the RegEx Flags, g and m*       
+[Output 5](https://regex101.com/r/wBWjt1/1)<br/>        
 
 6. Substitute “Md” to “MD”    
 RegEx: Md    
@@ -56,11 +56,11 @@ Sub: null
 **Second Trial**
 
 1. Remove all special characters except for “; and &”    
-RegEx:
-a. [,.(\)"[\]?] or
-b.[_%+,."?[\]()]+
-Sub: null    
-[Output 1.a.](https://regex101.com/r/1jlfvl/1)    
+RegEx:<br/>
+a. [,.(\)"[\]?] or<br/>
+b.[_%+,."?[\]()]+    
+Sub: null      
+[Output 1.a.](https://regex101.com/r/1jlfvl/1)      
 [Output 1.b.](https://regex101.com/r/EDciXI/1)    
 
 2. Substitute “;” to “,”    
@@ -75,7 +75,7 @@ Sub: CO
 4. Substitute “Boston” to “Boston MA”    
 RegEx: Boston    
 Sub: Boston MA    
-+ in this case, turn off the RegEx Flags, g and m<br/>   
+*in this case, turn off the RegEx Flags, g and m*       
 [Output 4](https://regex101.com/r/wBWjt1/1)    
 
 5. Substitute “Md” to “MD”    
