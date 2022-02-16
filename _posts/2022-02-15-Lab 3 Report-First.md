@@ -18,7 +18,7 @@ I did not venture into cracking the codes right after my initial practices. I di
 [Output Ex1.]( https://regex101.com/r/uAZVT9/1)
 [Output Ex2.]( https://regex101.com/r/cZwgGI/1)
 It was time-consuming, yet it was worth a shot! This process allowed me to become familiar with the Regular Expression program.
-The following records demonstrate my attempts to clean the dataset. What I focused on was how to remove as many characters as possible at once. After several trials and errors, I found (sometimes unexpectedly!) possible solutions. 
+The following records demonstrate my attempts to clean the dataset. What I focused on was how to remove as many characters as possible at once. After several trials and errors, I found (sometimes unexpectedly!) possible solutions.
 
 **First Attempt**
 
@@ -61,11 +61,11 @@ Sub: VA
 [Output 8](https://regex101.com/r/SoN9MF/1)
 
 9. Remove “amp,”    
-a. RegEx: amp,         
-[Output 9.a](https://regex101.com/r/l9F2Fl/1)     
+RegEx: amp,         
+[Output 9](https://regex101.com/r/l9F2Fl/1)     
 
 **Second Attempt**
-In my second attempt, I input different regex expressions from the one in my first attempt.
+In my second attempt, I input different regexes from that in my first attempt.
 
 1. Remove all special characters except for “; and &”    
 RegEx:<br/>
