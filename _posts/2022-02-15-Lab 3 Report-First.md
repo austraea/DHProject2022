@@ -41,9 +41,10 @@ Sub: Boston MA
 `in this case, turn off the RegEx Flags, g and m`       
 [Output 5](https://regex101.com/r/gp0iSK/1)<br/>       
 
-6. Reduce the space between "Afro American"
-RegEx: Afro American (two space)    
+6. Reduce the space between "Afro American"<br/>
+RegEx: Afro American (two space)<br/>     
 Sub: Afro American (one space)
+[Output 6](https://regex101.com/r/b9Q6fX/1)
 
 7. Substitute “Md” to “MD”    
 RegEx: Md    
@@ -83,8 +84,8 @@ Sub: Boston MA
 `in this case, turn off the RegEx Flags, g and m`       
 [Output 5](https://regex101.com/r/gp0iSK/1)<br/>       
 
-5. Reduce the space between "Afro American"
-RegEx: Afro American (two space)    
+5. Reduce the space between "Afro American"<br/>
+RegEx: Afro American (two space)<br/>     
 Sub: Afro American (one space)   
 
 6. Substitute “Md” to “MD”    
