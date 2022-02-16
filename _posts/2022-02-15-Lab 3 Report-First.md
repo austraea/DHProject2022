@@ -22,7 +22,7 @@ It was time-consuming, yet it was worth a shot! This process allowed me to becom
 The following records demonstrate my attempts to clean the dataset. What I focused on was how to remove as many characters as possible at once. After several trials and errors, I found (sometimes unexpectedly!) possible solutions, and finally, the time to crack the codes came!
 
 **First Attempt**<br/>
-In my first attempt, I focused on how to remove the parentheses and the brackets together, which I had not found any solutions yet. So I started to my task with removing those special characters separately.
+In my first attempt, I focused on how to remove the parentheses and the brackets together, which I had not found any solutions yet. So I started my task with removing those special characters separately.
 
 1. Remove all special characters except for “-, ;, ü, and &”    
 RegEx: [^(A-Za-z0-9-;&ü)\s]    
