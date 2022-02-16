@@ -13,8 +13,12 @@ comments: true
 Working with the Sample Dataset
 -------------------------------
 
-
-
+Dealing with the Regular Expression program required a persistent and experimental mind. Before “cleaning” or “tidying” dataset sample, I read Professor Thomas’s instructions on the course website twice carefully and watched tutorial videos. Confused but bravely, I combined as many regexes as possible from a single letter to ([multiple letters, numbers, and characters]), employed basic matchings and characters, and input them into the “Regular Expression box.” Fortunately, the regexes I input into the box worked!
+I did not venture into cracking the codes right after my initial practices. I did more experiments: removing information before or after the semicolon. For instance, I input ``(.*)\;`` or ``\;(.*)`` to remove information before or after the semicolon as follows.
+[Output Ex1.]( https://regex101.com/r/uAZVT9/1)
+[Output Ex2.]( https://regex101.com/r/cZwgGI/1)
+It was time-consuming, yet it was worth a shot! This process allowed me to become familiar with the Regular Expression program. 
+The following records demonstrate my attempts to clean the dataset. What I focused on was how to remove as many characters as possible at once. After several trials and errors, I found the best solutions for myself.
 
 **First Attempt**
 
