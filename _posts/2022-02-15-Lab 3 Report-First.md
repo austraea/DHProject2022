@@ -9,16 +9,17 @@ comments: true
 ---
 
 ## Magical World of Regular Expressions
-- - -
 
-### Working with the Sample Dataset
+<br/>
+<br/>
+### "Cleaning" the Dataset Sample
 
-Dealing with the Regular Expression program required a persistent and experimental mind. Before “cleaning” or “tidying” dataset sample, I read Professor Thomas’s instructions on the course website twice carefully and watched tutorial videos. Confused but bravely, I combined as many regexes as possible from a single letter to ([multiple letters, numbers, and characters]), employed basic matchings and characters, and input them into the “Regular Expression box.” Fortunately, the regexes I input into the box worked!
-I did not venture into cracking the codes right after my initial practices. I did more experiments: removing information before or after the semicolon. For instance, I input ``(.*)\;`` or ``\;(.*)`` to remove information before or after the semicolon as follows.<br/>
+Dealing with the Regular Expression program required a persistent and experimental mind. Before “cleaning” or “tidying” dataset sample, I read Professor Thomas’s instructions on the course website twice carefully and watched tutorial videos. Confused but bravely, I combined as many regexes as possible from a single letter to ([multiple letters, numbers, and characters]), employed basic matchings and characters, and put them into the “Regular Expression box.” Fortunately, the regex syntax I input the box was valid!
+I did not venture into cracking the codes right after my initial exercises. I did more experiments: removing some field of the data before or after the semicolon. For instance, I input ``(.*)\;`` or ``\;(.*)`` to remove a field of the data before or after the semicolon as follows.<br/>
 [Output Ex1.]( https://regex101.com/r/uAZVT9/1)<br/>
 [Output Ex2.]( https://regex101.com/r/cZwgGI/1)<br/>
 It was time-consuming, yet it was worth a shot! This process allowed me to become familiar with the Regular Expression program.<br/>
-The following records demonstrate my attempts to clean the dataset. What I focused on was how to remove as many characters as possible at once. After several trials and errors, I found (sometimes unexpectedly!) possible solutions.
+The following records demonstrate my attempts to clean the dataset. What I focused on was how to remove as many characters as possible at once. After several trials and errors, I found (sometimes unexpectedly!) possible solutions and it's time to crack the codes!
 
 **First Attempt**
 
@@ -46,7 +47,7 @@ Sub: Boston MA
 `in this case, turn off the RegEx Flags, g and m`       
 [Output 5](https://regex101.com/r/7POPJT/1)<br/>       
 
-6. Remove dash in "Afro - American"<br/>
+6. Remove the dash in "Afro - American"<br/>
 RegEx: -(space)<br/>
 [Output 6](https://regex101.com/r/QpAJ3y/1)
 
@@ -73,6 +74,7 @@ RegEx:<br/>
   b. [_%+,."?[\]()]+     
 [Output 1.a.](https://regex101.com/r/1jlfvl/1)      
 [Output 1.b.](https://regex101.com/r/EDciXI/1)    
+`Make sure to add a slash inside the parentheses and the brackets`
 
 2. Substitute “;” to “,”    
 RegEx: ;    
@@ -87,7 +89,7 @@ RegEx: Boston
 Sub: Boston MA    
 `in this case, turn off the RegEx Flags, g and m`          
 
-5. Remove dash in "Afro - American"<br/>
+5. Remove the dash in "Afro - American"<br/>
 RegEx: -(space)
 
 6. Substitute “Md” to “MD”    
@@ -101,6 +103,6 @@ Sub: VA
 8. Remove “amp,”    
 RegEx: amp,    
 
---------------------------------------------------------------------------------
-
-### Reflection
+<br/>
+<br/>
+### Did I Really "Clean" the Dataset?
