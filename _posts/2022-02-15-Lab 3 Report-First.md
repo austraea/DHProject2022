@@ -9,8 +9,7 @@ comments: true
 ---
 
 ## Magical World of Regular Expressions
-
------------------------------------------------------------------------------
+- - -
 
 ### Working with the Sample Dataset
 
@@ -65,8 +64,7 @@ Sub: VA
 RegEx: amp,         
 [Output 9](https://regex101.com/r/l9F2Fl/1)     
 
-**Second Attempt**
-
+**Second Attempt**<br/>
 In my second attempt, I input different regexes from that in my first attempt.
 
 1. Remove all special characters except for “; and &”    
