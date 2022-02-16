@@ -10,6 +10,7 @@ comments: true
 
 ## Magical World of Regular Expressions
 
+<br/>
 ### "Cleaning" the Dataset Sample
 
 Dealing with the Regular Expression program required a persistent and experimental mind. Before “cleaning” or “tidying” dataset sample, I read Professor Thomas’s instructions on the course website twice carefully and watched tutorial videos. Confused but bravely, I combined as many regexes as possible from a single letter to ([multiple letters, numbers, and characters]), employed basic matchings and characters, and put them into the “Regular Expression box.” Fortunately, the regex syntax I input the box was valid!
@@ -101,6 +102,7 @@ Sub: VA
 8. Remove “amp,”    
 RegEx: amp,    
 
+<br/>
 ### After Data Cleaning
 
 Before the Regular Expressions, I was unable to figure out the concept of “cleaning” data. How can the researchers or programmers “clean” dataset or data? Moreover, what is “cleaning” dataset or data? (This series of question reveal how I have been unfamiliar with Digital & Data Science!) Consider all the datasets we have worked with for two weeks: both HathiTrust dataset and this week’s raw dataset are “messy” and “dirty”, and they need to be (re)edited or (re)organized for later use. My impression of these datasets, however, is not far from what Katie Rawson and Trevor Muñoz point out in "Against Cleaning":
