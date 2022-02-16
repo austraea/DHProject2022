@@ -11,7 +11,6 @@ comments: true
 ## Magical World of Regular Expressions
 
 <br/>
-<br/>
 ### "Cleaning" the Dataset Sample
 
 Dealing with the Regular Expression program required a persistent and experimental mind. Before “cleaning” or “tidying” dataset sample, I read Professor Thomas’s instructions on the course website twice carefully and watched tutorial videos. Confused but bravely, I combined as many regexes as possible from a single letter to ([multiple letters, numbers, and characters]), employed basic matchings and characters, and put them into the “Regular Expression box.” Fortunately, the regex syntax I input the box was valid!
@@ -104,5 +103,18 @@ Sub: VA
 RegEx: amp,    
 
 <br/>
-<br/>
-### Did I Really "Clean" the Dataset?
+### After Data Cleaning
+
+Before the Regular Expressions, I was unable to figure out the concept of “cleaning” data. How can the researchers or programmers “clean” data? Moreover, what is “cleaning” data? (This series of question reveal how I have been unfamiliar with Digital & Data Science!) Consider all the data we have worked with for two weeks: both HathiTrust dataset and this week’s raw dataset are “messy” and “dirty”, and they need to be (re)edited or (re)organized for later use. My impression of these datasets, however, is not far from what Katie Rawson and Trevor Muñoz point out in "Against Cleaning":
+
+> [Data cleaning] is understood as a step that inscribes *a normative order* by wiping away what is different. The term “cleaning” implies that a dataset begins as “messy.” “Messy” suggests an underlying order: it supposes things already have a rightful place, but they are not in it [.]
+
+The ideas of “messy” data and its (re)organization are parts of the paradigm of “‘correct’ order” (Rawson and Muñoz). This paradigm does not allow any differences, i.e., no diversity of data. At this moment, I recollected what I pointed out in my [Lab 2 Report](https://austraea.github.io/2022-02-09-Lab-2-Report-Second/). I said,
+
+> [Some] data is unorganized, so they are invalid to be used and analyzed. For instance, “China, Shanghai (China),” “Nanjing (Jiangsu Shen, China)” should be labeled under “China”; “Ginza (Tokyo, Japan)” should be under “Japan.” Therefore, I wonder whether the dataset and the whole data are valid for further research.
+
+I might have too focused on the dataset’s “tidiness” and its normative structure or pattern that we generally have accepted. In this “messy” dataset, “there is actually rich information about the circumstances under which it was collected” (D’lgnazio and Klein)[^1]. The data such as “Nanjing (Jiangsu Shen, China)” or “Ginza (Tokyo, Japan)” could inform us about the researchers, their perspectives, and the social and historical background when the dataset was created. Also, we could ask a question, “why does the city (Nanjing) or district (Ginza) come first in the publication venue information?” or “why is there no data containing the information about provinces or cities in Korea within it?” These processes of handling “messy” datasets allow us to expand our insights and preserve diversity within the datasets.
+
+This week’s lab with Regular Expressions, however, seems to be far from the general concept of data cleaning process. Of course, we were to make the “messy” dataset tidy, and we were to separate columns, remove chaotic characters, and standardize the patterns. The whole process, nevertheless, is near to an experimental journey to search for a variety of resolutions, not a process of placing the dataset within a hierarchical, normative, and correct order. I removed “amp;” from the raw dataset contrary to the dataset we are given in .csv format, which would create differences in our dataset and data within it. Furthermore, our own dataset would be shared with, revised, and employed by others inside (or perhaps outside) the class as the Data-Sitters Club. All the processes we have undertaken and will take might be ways toward “transparency” in data science and the data for “co-liberation.”
+
+[^1]: D'Ignazio, Katherine and Lauren Klein. "Unicorns, Janitors, Ninjas, Wizards, and Rock Stars," *Data Feminism*, 2020. 
