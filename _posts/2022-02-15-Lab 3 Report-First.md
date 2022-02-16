@@ -41,8 +41,8 @@ Sub: Boston MA
 `in this case, turn off the RegEx Flags, g and m`       
 [Output 5](https://regex101.com/r/gp0iSK/1)<br/>       
 
-6. Substitute "Afro  American" to "Afro American"
-RegEx: Afro  American
+6. Substitute "Afro  American" to "Afro American"    
+RegEx: Afro  American    
 Sub: Afro American
 
 7. Substitute “Md” to “MD”    
@@ -53,7 +53,6 @@ Sub: MD
 RegEx: Virginia    
 Sub: VA    
 
-*optional*    
 9. Remove “amp,”    
 RegEx: amp,      
 [Output 9](https://regex101.com/r/cLNMk8/1)     
@@ -84,9 +83,9 @@ Sub: Boston MA
 `in this case, turn off the RegEx Flags, g and m`       
 [Output 5](https://regex101.com/r/gp0iSK/1)<br/>       
 
-5. Substitute "Afro  American" to "Afro American"
-RegEx: Afro  American
-Sub: Afro American
+5. Substitute "Afro  American" to "Afro American"     
+RegEx: Afro  American     
+Sub: Afro American     
 
 6. Substitute “Md” to “MD”    
 RegEx: Md    
@@ -96,6 +95,5 @@ Sub: MD
 RegEx: Virginia    
 Sub: VA    
 
-*optional*     
 8. Remove “amp,”    
 RegEx: amp,    
