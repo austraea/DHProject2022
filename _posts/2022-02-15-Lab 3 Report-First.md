@@ -17,6 +17,7 @@ Dealing with the Regular Expression program required a persistent and experiment
 I did not venture into cracking the codes right after my initial exercises, yet. I conducted more experiments: removing some field of the data before or after the semicolon. For instance, I input ``(.*)\;`` or ``\;(.*)`` to remove a field of the data before or after the semicolon as follows.<br/>
 * [Output Ex1.]( https://regex101.com/r/uAZVT9/1)<br/>
 * [Output Ex2.]( https://regex101.com/r/cZwgGI/1)<br/>
+
 It was time-consuming, yet it was worth a shot! This process allowed me to become familiar with the Regular Expression program.<br/>
 The following records demonstrate my attempts to clean the dataset. What I focused on was how to remove as many characters as possible at once. After several trials and errors, I found (sometimes unexpectedly!) possible solutions and it's time to crack the codes!
 
