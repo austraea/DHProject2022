@@ -27,7 +27,7 @@ The tables below show the order of the term’s relative frequency in the Humani
 
 1. Humanities Corpus
 
-| Term | Comparison |
+|  Term | Comparison |
 | :-----| :---|
 | student | 0.00630 |
 | humanities | 0.00545 |
@@ -36,10 +36,10 @@ The tables below show the order of the term’s relative frequency in the Humani
 | courses | 0.00220 |
 | course | 0.00214 |
 | history | 0.00209 |
-
+<br/>
 2. Science Corpus
 
-| Term | Comparison |
+|  Term | Comparison |
 | :-----| :---|
 | science | -0.00254 |
 | research | -0.00224 |
