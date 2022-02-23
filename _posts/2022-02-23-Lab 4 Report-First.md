@@ -37,7 +37,7 @@ The tables below show the order of the term’s relative frequency in the Humani
 | course | 0.00214 |
 | history | 0.00209 |
 
-<br/>
+
 * Science Corpus
 
 |  Term | Comparison |
