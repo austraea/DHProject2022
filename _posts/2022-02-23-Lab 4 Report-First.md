@@ -27,6 +27,16 @@ The tables below show the order of the term’s relative frequency in the Humani
 
 1. Humanities Corpus<br/>
 | Term | Comparison |
+| :------ |:--- |
+| Five | Six |
+| Ten | Eleven |
+| Seven | Eight |
+| Two | Three |
+| Two | Three |
+| Two | Three |
+| Two | Three |
+
+| Term | Comparison |
 | :-----| :---|
 | student | 0.00630 |
 | humanities | 0.00545 |
