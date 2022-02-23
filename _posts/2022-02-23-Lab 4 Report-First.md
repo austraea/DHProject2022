@@ -25,7 +25,7 @@ The term “mcas” appears in document #442, and this document is a letter urgi
 **Question 4: Looking through this list of terms and their “Comparison” values, what observations can you make about terms that are more likely to occur in the humanities corpus vs. terms that are more likely to occur in the science corpus? How are these terms different?**<br/>
 The tables below show the order of the term’s relative frequency in the Humanities and Science corpora.
 
-1. Humanities Corpus
+* Humanities Corpus
 
 |  Term | Comparison |
 | :-----| :---|
@@ -37,7 +37,8 @@ The tables below show the order of the term’s relative frequency in the Humani
 | course | 0.00214 |
 | history | 0.00209 |
 <br/>
-2. Science Corpus
+
+* Science Corpus
 
 |  Term | Comparison |
 | :-----| :---|
