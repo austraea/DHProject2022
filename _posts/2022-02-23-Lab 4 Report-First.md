@@ -26,15 +26,6 @@ The term “mcas” appears in document #442, and this document is a letter urgi
 The tables below show the order of the term’s relative frequency in the Humanities and Science corpora.
 
 1. Humanities Corpus<br/>
-| Term | Comparison |
-| :------ |:--- |
-| Five | Six |
-| Ten | Eleven |
-| Seven | Eight |
-| Two | Three |
-| Two | Three |
-| Two | Three |
-| Two | Three |
 
 | Term | Comparison |
 | :-----| :---|
@@ -47,6 +38,7 @@ The tables below show the order of the term’s relative frequency in the Humani
 | history | 0.00209 |
 
 2. Science Corpus<br/>
+
 | Term | Comparison |
 | :-----| :---|
 | science | -0.00254 |
