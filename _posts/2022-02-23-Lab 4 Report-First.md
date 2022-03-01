@@ -58,3 +58,5 @@ To be continued...
 
 <br/>
 ### After Exploratory Data Analysis
+
+Exploring Voyant taught me what exactly what D’Ignazio and Klein point out throughout their article that what is important is not the number(s) but context(s). Understanding and getting familarializing with
