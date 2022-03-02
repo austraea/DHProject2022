@@ -24,7 +24,7 @@ My chunk of text is “So let us melt, and make no noise, No tear-floods, nor si
 1-2. Result: ['so', 'let', 'us', 'melt', 'and', 'make', 'no', 'noise', 'no', 'tear', 'floods', 'nor', 'sigh', 'tempests', 'move', **' '**] <br/>
 2-1. My chunk of text: “So let us melt, and make no noise, No tear-floods, nor sigh-tempests move” <br/>
 2-2. Result: ['so', 'let', 'us', 'melt', 'and', 'make', 'no', 'noise', 'no', 'tear', 'floods', 'nor', 'sigh', 'tempests', 'move'] <br/>
-<<<<<<< HEAD
+
 I also intentionally added other special characters such as a question mark (?), a plus sign (+), and a parenthesis at the end of the line, and the results were the same, ‘ ‘. From the repeated experiment, I found out that any non-word characters were matched only when they were between alphanumeric words, as the ‘split_into_words’ function does not view “let’s” or “tear-floods” as one word. The reason why the non-word characters between word characters are not recognized is that the function is *to split into words* and it seems that the regular expression “\W” matches all non-alphanumeric words, including the spaces between the words, and splits the word characters by special characters and spaces. Therefore, the function understood the semicolon after the move, “move;”, as a place to divide between “move” and the closing quotation mark (“), and that is why ‘ ‘ became produced.
 =======
 
