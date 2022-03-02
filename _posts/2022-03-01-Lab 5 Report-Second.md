@@ -31,12 +31,13 @@ I also intentionally added other special characters such as a question mark (?),
 The dataframe shows that the table consists of 9 lines. All the data are displayed by the filename (.xml files), the author, the title, the date of publication, and the words either virtu* or vertu*. The data in the chart are variables that the algorithm commended.
 
 **Question 4: Look at the below lines from the compare_counts_specific function above. These lines use regular expressions to do something to the value of the <date> field in an xml file (if the contents of the <date> field meet certain conditions, that is). What are these lines doing?** <br/>
+
 According to the regular expression syntax:
 
-The general module of regular expression syntax is consisted of “function(r’pattern’, ‘string’)”<br/>
-Therefore, the module “re.search” indicates to search the string,<br/>
-the carat sign (^) means the beginning point, that is, “from”<br/>
-the module “re.sub” signifies to replace the string,<br/>
+1. The general module of regular expression syntax is consisted of “function(r’pattern’, ‘string’).”
+2. Therefore, the module “re.search” indicates to search the string,<br/>
+3. the carat sign (^) means the beginning point, that is, “from”<br/>
+
 Overall, these lines tell if any string (date) beginning with 20 is found, then it will be replaced to blank, that is, deleted. In other words, the regular expression commands to delete all the dates (probably the year) beginning with 20 from EEBO TCP.mxl files.
 
 <br/>
