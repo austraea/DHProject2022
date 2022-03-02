@@ -18,10 +18,12 @@ In regular expression, “\W” means to match any non-word characters, so in Py
 
 **Question 2: What happened? Did it work as you expected? If not, what happened that you didn't expect?** <br/>
 My chunk of text is “So let us melt, and make no noise, No tear-floods, nor sigh-tempests move;” from John Donne’s “A Valediction: Forbidding Mourning.” The result was exactly the same with my expectation: the ‘split_into_words’ function does not view “tear-floods” and “sigh-tempests” as one words, so these words linked with dash (-) were divided into. However, interestingly, the function seemed to perceive a semicolon (;) and it was produced into a blank encircled with quotation marks, ‘ ‘; thus, the result became different depending on whether I put a semicolon or not at the end of the sentence as below. <br/>
+
 1-1.	My chunk of text: “So let us melt, and make no noise, No tear-floods, nor sigh-tempests move;” <br/>
 1-2. Result: ['so', 'let', 'us', 'melt', 'and', 'make', 'no', 'noise', 'no', 'tear', 'floods', 'nor', 'sigh', 'tempests', 'move', **' '**] <br/>
 2-1. My chunk of text: “So let us melt, and make no noise, No tear-floods, nor sigh-tempests move” <br/>
 2-2. Result: ['so', 'let', 'us', 'melt', 'and', 'make', 'no', 'noise', 'no', 'tear', 'floods', 'nor', 'sigh', 'tempests', 'move'] <br/>
+
 I also intentionally added other special characters such as a question mark (?), a plus sign (+), and a parenthesis at the end of the line, and the result were the same, ‘ ‘. From the repeated experiments, I found out that any non-word characters were matched only when they were between alphanumeric words, as the ‘split_into_words’ function does not view “let’s” or “tear-floods” as one words. The reason why the non-word characters between word-characters are not recognized is that the function is *to split into words* and it seems that the regular expression “\W” matches all non-alphanumeric words including the spaces between the words, and splits the word-characters by special characters and spaces. Therefore, the function understood the semicolon after the move, “move;”, as a place to divide between “move” and the closing quotation mark (“), and that is why ‘ ‘ became produced.
 
 **Question 3: Describe the output of this script (the dataframe that displays after the above cell finishes running). Remember that this is the same output as the "vir-ver-counts-specific" spreadsheet in our Lab5 Google drive folder, only for just 10 texts. What is this dataframe showing us?**<br/>
