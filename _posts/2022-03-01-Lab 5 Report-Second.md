@@ -22,6 +22,7 @@ My chunk of text is “So let us melt, and make no noise, No tear-floods, nor si
 
 1-1.	My chunk of text: “So let us melt, and make no noise, No tear-floods, nor sigh-tempests move;” <br/>
 1-2. Result: ['so', 'let', 'us', 'melt', 'and', 'make', 'no', 'noise', 'no', 'tear', 'floods', 'nor', 'sigh', 'tempests', 'move', **' '**] <br/>
+
 2-1. My chunk of text: “So let us melt, and make no noise, No tear-floods, nor sigh-tempests move” <br/>
 2-2. Result: ['so', 'let', 'us', 'melt', 'and', 'make', 'no', 'noise', 'no', 'tear', 'floods', 'nor', 'sigh', 'tempests', 'move'] <br/>
 
