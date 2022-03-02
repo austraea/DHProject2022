@@ -25,12 +25,12 @@ My chunk of text is “So let us melt, and make no noise, No tear-floods, nor si
 2-1. My chunk of text: “So let us melt, and make no noise, No tear-floods, nor sigh-tempests move” <br/>
 2-2. Result: ['so', 'let', 'us', 'melt', 'and', 'make', 'no', 'noise', 'no', 'tear', 'floods', 'nor', 'sigh', 'tempests', 'move'] <br/>
 
-I also intentionally added other special characters such as a question mark (?), a plus sign (+), and a parenthesis at the end of the line, and the results were the same, ‘ ‘. From the repeated experiment, I found out that any non-word characters were matched only when they were between alphanumeric words, as the ‘split_into_words’ function does not view “let’s” or “tear-floods” as one word. The reason why the non-word characters between word characters are not recognized is that the function is *to split into words* and it seems that the regular expression “\W” matches all non-alphanumeric words, including the spaces between the words, and splits the word characters by special characters and spaces. Therefore, the function understood the semicolon after the move, “move;”, as a place to divide between “move” and the closing quotation mark (“), and that is why ‘ ‘ became produced.
+I also intentionally added other special characters such as a question mark (?), a plus sign (+), and a parenthesis at the end of the line, and the results were the same, ‘ ‘. From the repeated experiment, I found out that any non-word characters were matched only when they were between alphanumeric words, as the ‘split_into_words’ function does not view “let’s” or “tear-floods” as one word. The reason why the non-word characters between word characters are not recognized is that the function is *to split into words* and it seems that the regular expression “\W” matches all non-alphanumeric words, including the spaces between the words, and splits the word characters by special characters and spaces. Therefore, the function understood the semicolon after the move, “move;”, as a place to divide between “move” and the closing quotation mark (”), and that is why ' ' became produced.
 
 **Question 3: Describe the output of this script (the dataframe that displays after the above cell finishes running). Remember that this is the same output as the "vir-ver-counts-specific" spreadsheet in our Lab5 Google drive folder, only for just 10 texts. What is this dataframe showing us?**<br/>
 The dataframe shows that the table consists of 9 lines. All the data are displayed by the filename (.xml files), the author, the title, the date of publication, and the words either virtu* or vertu*. The data in the chart are variables that the algorithm commended.
 
-**Question 4: Look at the below lines from the compare_counts_specific function above. These lines use regular expressions to do something to the value of the <date> field in an xml file (if the contents of the <date> field meet certain conditions, that is). What are these lines doing?** <br/>
+**Question 4: Look at the below lines from the compare_counts_specific function above. These lines use regular expressions to do something to the value of the <date> field in an xml file (if the contents of the <date> field meet certain conditions, that is). What are these lines doing?**<br/>
 According to the regular expression syntax:
 The general module of regular expression syntax is consisted of “function(r’pattern’, ‘string’)”
 Therefore, the module “re.search” indicates to search the string,
@@ -48,6 +48,8 @@ Week after week, I have learned various high-tech tools and skills from Regular 
 What matters for digital humanists when they work with data is how the transformations (the results) could be understood and interpreted, rather than how the transformations have been created.  As a future digital humanist, what I focus on is not how the programs works nor how my ineptitude for the programming impedes my DH projects, but *what the program produces*.
 
 
-[^1] Bowers, Katherine, Quinn Dombrowski, and Roopika Risam, “DSC #12: The DSC and the New Programming Language,” *The Data-Sitters Club*, 2021.
-[^2] Bowers, Katherine, Quinn Dombrowski, and Roopika Risam, “DSC #12: The DSC and the New Programming Language,” *The Data-Sitters Club*, 2021.
-[^3] Schmidt, Benjamin M. “Do Digital Humanists Need to Understand Algorithms?” *Debates in the Digital Humanities*, 2016
+[^1]: Bowers, Katherine, Quinn Dombrowski, and Roopika Risam, “DSC #12: The DSC and the New Programming Language,” *The Data-Sitters Club*, 2021.
+
+[^2]: Bowers, Katherine, Quinn Dombrowski, and Roopika Risam, “DSC #12: The DSC and the New Programming Language,” *The Data-Sitters Club*, 2021.
+
+[^3]: Schmidt, Benjamin M. “Do Digital Humanists Need to Understand Algorithms?” *Debates in the Digital Humanities*, 2016
