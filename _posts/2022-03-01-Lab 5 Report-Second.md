@@ -31,7 +31,6 @@ I also intentionally added other special characters such as a question mark (?),
 The dataframe shows that the table consists of 9 lines. All the data are displayed by the filename (.xml files), the author, the title, the date of publication, and the words either virtu* or vertu*. The data in the chart are variables that the algorithm commended.
 
 **Question 4: Look at the below lines from the compare_counts_specific function above. These lines use regular expressions to do something to the value of the <date> field in an xml file (if the contents of the <date> field meet certain conditions, that is). What are these lines doing?**
-
 According to the regular expression syntax:
 The general module of regular expression syntax is consisted of “function(r’pattern’, ‘string’)”
 Therefore, the module “re.search” indicates to search the string,
