@@ -55,8 +55,8 @@ What matters for digital humanists when they work with data is how the transform
 <br/>
 ### My Chosen Scholarly Dataset for Lab 6
 [Shakespeare and Company Project Datasets](https://shakespeareandco.princeton.edu/)
-
 <br/>
+
 [^1]: Bowers, Katherine, Quinn Dombrowski, and Roopika Risam, “DSC #12: The DSC and the New Programming Language,” *The Data-Sitters Club*, 2021.
 
 [^2]: Bowers, Katherine, Quinn Dombrowski, and Roopika Risam, “DSC #12: The DSC and the New Programming Language,” *The Data-Sitters Club*, 2021.
