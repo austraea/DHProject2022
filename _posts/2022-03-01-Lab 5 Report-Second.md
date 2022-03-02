@@ -52,13 +52,13 @@ However, the Data-Sitters Club members’ coding stories whispered to me that th
 
 What matters for digital humanists when they work with data is how the transformations (the results) could be understood and interpreted, rather than how the transformations have been created.  As a future digital humanist, what I focus on is not how the programs works nor how my ineptitude for the programming impedes my DH projects, but *what the program produces*.
 
+<br/>
+### My Chosen Scholarly Dataset for Lab 6
+[Shakespeare and Comapany Project Datasets](https://shakespeareandco.princeton.edu/)
 
+<br/>
 [^1]: Bowers, Katherine, Quinn Dombrowski, and Roopika Risam, “DSC #12: The DSC and the New Programming Language,” *The Data-Sitters Club*, 2021.
 
 [^2]: Bowers, Katherine, Quinn Dombrowski, and Roopika Risam, “DSC #12: The DSC and the New Programming Language,” *The Data-Sitters Club*, 2021.
 
 [^3]: Schmidt, Benjamin M. “Do Digital Humanists Need to Understand Algorithms?” *Debates in the Digital Humanities*, 2016
-
-<br/>
-### My Chosen Scholarly Dataset for Lab 6
-[Shakespeare and Comapany Project Datasets](https://shakespeareandco.princeton.edu/)
