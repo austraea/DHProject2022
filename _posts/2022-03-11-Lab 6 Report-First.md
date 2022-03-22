@@ -2,7 +2,7 @@
 layout: post
 title: Lab 6 Report
 subtitle:
-cover-img: /assets/img/WallpaperDog-17274603.jpg
+cover-img: assets/img/Shakespeare and Company.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [lab 6]
