@@ -29,7 +29,7 @@ The dataset will consist of three primary metadata, author, text information, an
 
 ![Metadata#1](assets/img/WWscreenshot#1.png)
 ![Metadata#2](assets/WWscreenshot#2.png)
-
+<br/>
 **<span style="color: darkslateblue;">Author</span>**
 
 Author: author’s name
@@ -37,7 +37,7 @@ Author: author’s name
 Gender: author’s gender
 
 Status/job: author’s social status or job such as aristocrat, professional writer
-
+<br/>
 **<span style="color: darkslateblue;">Text Information</span>**
 
 Title: text title
@@ -55,7 +55,7 @@ Year: the year of a certain edition published
 Publisher: publisher’s name
 
 Publication place: the place where the text was published
-
+<br/>
 **<span style="color: darkslateblue;">Travel Information</span>**
 
 Traveler(s): the main character of the text
@@ -71,7 +71,7 @@ Purpose of travel: the purpose of travel, such as adventure or public affairs
 Period of travel: the period of how long the main character travels
 
 <br/>
-### <span style="color: indianred;">The target audiences</span>
+### <span style="color: indianred;">The Audience(s)</span>
 
 - Hyekyung and her colleagues who are interested in texts about women’s travel or travel writings and Digital Humanities research
 
