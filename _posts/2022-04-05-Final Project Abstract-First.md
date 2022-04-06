@@ -29,7 +29,7 @@ For the project, the data will be collected from various sources, from anthologi
 ### <span style="color: indianred;">Metadata</span>
 The dataset will consist of three primary metadata, author, text information, and travel information, and each metadata will hold sub-metadata.
 
-![Metadata#1](/assets/img/WWscreenshot#1.png)
+<ima width="100%" src="https://github.com/austraea/austraea.github.io/blob/7e14b97aa34a455d1a6ec0b159dac706669cfd41/assets/img/WWscreenshot%231.png"/>
 
 ![Metadata#2](/assets/WWscreenshot#2.png)
 
