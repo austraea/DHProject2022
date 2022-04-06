@@ -4,8 +4,6 @@ title: Abstract
 subtitle:
 cover-img:
 src:
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [abstract], [final project], [dataset]
 comments: true
 ---
