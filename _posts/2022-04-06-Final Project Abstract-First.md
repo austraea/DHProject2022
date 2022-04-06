@@ -10,8 +10,6 @@ comments: true
 ---
 
 <br/>
-## Final Project Abstract
-
 ### <span style="color: indianred;">Title of Dataset</span>
 
 *Wandering Women: Women’s travels in the Early Modern Literature*
