@@ -2,8 +2,8 @@
 layout: post
 title: Lab 6 Report
 subtitle:
-cover-img:
-src: assets/img/Shakespeare and Company.jpg
+cover-img: Shakespeare and Company.jpg
+src: 
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [lab 6]
