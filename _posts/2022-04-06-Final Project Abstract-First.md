@@ -27,9 +27,9 @@ For the project, the data will be collected from various sources, from anthologi
 
 The dataset will consist of three primary metadata, author, text information, and travel information, and each metadata will hold sub-metadata.
 
-![metadata#1](/assets/WWscreenshot#1.png)
+![WWscreenshot#1](/assets/img/WWscreenshot#1.png)
 
-![metadata#2](/assets/WWscreenshot#2.png)
+![WWscreenshot#2](/assets/WWscreenshot#2.png)
 
 **<span style="color: darkslateblue;">Author</span>**
 
