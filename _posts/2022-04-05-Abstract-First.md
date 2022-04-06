@@ -100,7 +100,6 @@ The dataset will consist of three primary metadata, author, text information, an
 
 <br/>
 ### <span style="color: indianred;"> Existing Related Scholarly Datasets</span>
-
 <br/>
 - [*Women’s Travel Writing, 1780-1840: A Bio-Bibliographical Database (DWTW)*](https://btw.wlv.ac.uk/)
 
