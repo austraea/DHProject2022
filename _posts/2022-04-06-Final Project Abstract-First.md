@@ -70,7 +70,7 @@ The dataset will consist of three primary metadata, author, text information, an
 
 <br/>
 ### <span style="color: indianred;">The target audiences</span>
-
+<br/>
 - Hyekyung and her colleagues who are interested in texts about women’s travel or travel writings and Digital Humanities research
 - Scholars, researchers, and graduate students specialized in early modern women’s writings and travel writings, book history, and Digital Humanities research
 - Researchers and graduate students who major in other fields of studies but want to experience early modern English literature and DH research in the field of humanities
