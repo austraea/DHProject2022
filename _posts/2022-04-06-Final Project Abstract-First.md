@@ -10,6 +10,8 @@ tags: [abstract], [final project], [dataset]
 comments: true
 ---
 
+## Final Project Abstract
+
 ### <span style="color: indianred;">Title of Dataset</span>
 
 *Wandering Women: Women’s travels in the Early Modern Literature*
@@ -71,15 +73,15 @@ Period of travel: the period of how long the main character travels
 <br/>
 ### <span style="color: indianred;">The target audiences</span>
 
-Hyekyung and her colleagues who are interested in texts about women’s travel or travel writings and Digital Humanities research
+- Hyekyung and her colleagues who are interested in texts about women’s travel or travel writings and Digital Humanities research
 
-Scholars, researchers, and graduate students specialized in early modern women’s writings and travel writings, book history, and Digital Humanities research
+- Scholars, researchers, and graduate students specialized in early modern women’s writings and travel writings, book history, and Digital Humanities research
 
-Researchers and graduate students who major in other fields of studies but want to experience early modern English literature and DH research in the field of humanities
+- Researchers and graduate students who major in other fields of studies but want to experience early modern English literature and DH research in the field of humanities
 
-General audience who might have an interest in early modern literature
+- General audience who might have an interest in early modern literature
 
-Visitors of my blog
+- Visitors of my blog
 
 <br/>
 ### <span style="color: indianred;">Questions</span>
