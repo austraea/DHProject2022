@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Abstract
+title: Final Project Abstract
 subtitle:
 cover-img:
 src:
