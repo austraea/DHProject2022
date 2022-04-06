@@ -76,16 +76,16 @@ The dataset will consist of three primary metadata, author, text information, an
 
 - Scholars, researchers, and graduate students specialized in early modern women’s writings and travel writings, book history, and Digital Humanities research
 
-- Researchers and graduate students who major in other fields of studies but want to experience early modern English literature and DH research in the field of humanities
+- Researchers and graduate students who major in other fields of studies but want to experience early modern English literature and DH research
 
 - General audience who might have an interest in early modern literature
 
-- General visitors of my blog
+- Unexpected Visitors of Hyekyung's blog
 
 <br/>
 ### <span style="color: indianred;">Questions</span>
 
-*Wandering Women* dataset could help the audience(s) to answer those questions:
+The *Wandering Women* dataset could help the audience(s) to answer those questions:
 - How many texts related to women’s travels were produced in the early modern period?
 - Which gender, either male or female, did contribute to or produce women’s travel texts more?
 - What percentage/how many manuscripts by female authors (mainly aristocrats) was/were printed and reprinted?
