@@ -1,27 +1,26 @@
 ---
 layout: post
-title: Abstract for the Final Project
+title: Final Project Abstract
 subtitle:
 cover-img:
 src:
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [final project], [abstract], 
+tags: [final project], [abstract]
 comments: true
 ---
 
-### bstract for Final Project
-
-</br>
 ### <span style="color: indianred;">Title of Dataset</span>
 
 *Wandering Women: Women’s travels in the Early Modern Literature*
+
 </br>
 ### <span style="color: indianred;">Description of Dataset</span>
 
 *Wandering Women* will be a collection of (mainly) bibliographical information of the texts about/related to the topic of women’s travels in the early modern period, before the 1700s. This dataset will contain both imaginary and real texts/records of women’s journeys by male and female authors. This project’s main goal is to familiarize with writings about women’s travels and understand how early modern women attempted to expand their space, roles, and authority by crossing the traditionally allocated sphere for them—the domestic sphere. Therefore, the travel type in this dataset will be limited to voluntary travels such as journeys for adventures, education, and participation in national affairs or events, not involuntary travels because of religious or political persecutions or any other coercions. Also, this dataset will accommodate the texts by both male and female authors in order to (if possible) distinguish and understand how women’s travels are described depending on the author’s gender.
 For the project, the data will be collected from various sources, from anthologies of (travel) literature to online archives. After several trials to search for texts about women’s travels at online databases such as Early English Books Online (EEBO) and English Short Title Catalogue (ESTC) with the keywords including journey and travel, this research method was found to be less effective than it had been expected since the keywords those online databases suggest/create are inadequate to search for the texts about women’s travels exactly. Nonetheless, those online databases will be used as one of the main tools in order to search for the bibliographical information. Furthermore, more refined keywords will be employed to research the aimed texts as the project progresses.
 
+</br>
 ### <span style="color: indianred;">Metadata</span>
 
 The dataset will consist of three primary metadata, author, text information, and travel information, and each metadata will hold sub-metadata.
@@ -65,6 +64,7 @@ Purpose of travel: the purpose of travel, such as adventure or public affairs
 
 Period of travel: the period of how long the main character travels
 
+</br>
 ### <span style="color: indianred;">The target audiences</span>
 
 Hyekyung and her colleagues who are interested in texts about women’s travel or travel writings and Digital Humanities research
@@ -76,3 +76,5 @@ Researchers and graduate students who major in other fields of studies but want 
 General audience who might have an interest in early modern literature
 
 Visitors of my blog who happen to find it
+
+</br>
