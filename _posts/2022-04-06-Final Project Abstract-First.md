@@ -29,34 +29,56 @@ The dataset will consist of three primary metadata, author, text information, an
 ![Metadata#2](assets/WWscreenshot#2.png)
 
 **<span style="color: darkslateblue;">Author</span>**
+
 Author: author’s name
+
 Gender: author’s gender
+
 Status/job: author’s social status or job such as aristocrat, professional writer
 
 **<span style="color: darkslateblue;">Text Information</span>**
+
 Title: text title
+
 Genre: text genre
+
 Format: text format, printed or manuscript
+
 Publication/circulation year: the first year of publication or circulation
+
 Edition: edition information
+
 Year: the year of a certain edition published
+
 Publisher: publisher’s name
+
 Publication place: the place where the text was published
 
 **<span style="color: darkslateblue;">Travel Information</span>**
+
 Traveler(s): the main character of the text
+
 Status of traveler: the main character’s status or job
+
 Travel areas: the place where the main character travels such as within Britain, overseas, imaginary places
+
 Type of travel: the type of travel such as imaginary or actual travel
+
 Purpose of travel: the purpose of travel, such as adventure or public affairs
+
 Period of travel: the period of how long the main character travels
 
 <br/>
 ### <span style="color: indianred;">The target audiences</span>
+
 Hyekyung and her colleagues who are interested in texts about women’s travel or travel writings and Digital Humanities research
+
 Scholars, researchers, and graduate students specialized in early modern women’s writings and travel writings, book history, and Digital Humanities research
+
 Researchers and graduate students who major in other fields of studies but want to experience early modern English literature and DH research in the field of humanities
+
 General audience who might have an interest in early modern literature
+
 Visitors of my blog
 
 <br/>
