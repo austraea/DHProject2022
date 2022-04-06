@@ -2,7 +2,8 @@
 layout: post
 title: Final Project Abstract
 subtitle:
-cover-img:
+cover-img: /assets/img/Hollar.jpg
+share-img: /assets/img/Hollar.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [abstract]
