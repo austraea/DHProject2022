@@ -10,6 +10,8 @@ tags: [final proeject], [wandering women]
 comments: true
 ---
 
+
+<br/>
 ## Critical Introduction to *Wandering Women: Women’s travels in the Early Modern Literature*
 
 [Wanderig Women Dataset](https://drive.google.com/file/d/1PPX8RDW8NcAC3uDNtOF8Mb-aneKZbDkb/view?usp=sharing)
@@ -24,6 +26,7 @@ comments: true
 1. Research books: the Wandering Woman dataset includes literary texts dealing with women’s travel both as major and minor themes. However, whether individual literary texts deal with women’s journey is a matter of content, so it is necessary to refer to each text to know it. For this reason, it is hard to search for literary texts dealing with women’s travel with its title or any other keywords from online databases. Therefore, the Wandering Woman dataset project takes reference books as one of the main references. To collect data from reference books, the project curator read and browsed reference books about travel writing and women’s travel writing before the 1800s, and transcribed the data collected from the references to the spreadsheet. To verify and add more detailed information on each data, such as the author’s biographical information and text’s bibliographic information, the curator accessed online databases such as *Early English Books Online* (*EEBO*), *English Short Title Catalogue* (*ESTC*), *Oxford Dictionary of National Biography* (*ODNB*), *WorldCat Identities*. So far, nineteenth books have been referred for the Wandering Women dataset, and the bibliographic information can be referred to at the “Bibliography” tap.
 <br/>
 2. Online Databases: the second reference for the Wandering Women dataset is online databases. The curator has searched for data from the following online databases, *English Short Title Catalogue* (*ESTC*), *Women Writers Online* (*WWO*), and *Women’s Travel Writing, 1780-1840*. The most data have been searched at *ESTC* (77out of 133) with keywords selected by the curator and created by *ESTC*. The selected keywords are related to or synonyms of “travel,” author, and regions, and the keywords are classified as follows.
+
 <br/>
 1) the mode of travel (adventure, excursion, ramble, travel)
 
