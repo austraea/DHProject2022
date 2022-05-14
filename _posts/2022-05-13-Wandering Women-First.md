@@ -85,3 +85,4 @@ The third one is the number of data. In exploring Voyant, it was discussed that 
 [^2]: D’Ignazio, Katherine and Lauren Klein. “Unicorns, Janitors, Ninjas, Wizards, and Rock Stars,” *Data Feminism*, 2020.
 
 [^3]: Catherine D’Ignazio and Lauren F. Klein, “The Numbers Don’s Speak for Themselves,” *Data Feminism*, 2020.
+
