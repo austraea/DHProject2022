@@ -6,11 +6,11 @@ cover-img: /assets/img/Hollar.jpg
 share-img: /assets/img/Hollar.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [final project], [Wandering Women]
+tags: [final proeject], [wandering women]
 comments: true
 ---
 
-## Critical Introduction on *Wandering Women: Women’s travels in the Early Modern Literature*
+## Critical Introduction to *Wandering Women: Women’s travels in the Early Modern Literature*
 
 [Wanderig Women Dataset](https://drive.google.com/file/d/1PPX8RDW8NcAC3uDNtOF8Mb-aneKZbDkb/view?usp=sharing)
 
