@@ -12,7 +12,7 @@ comments: true
 
 
 <br/>
-## Critical Introduction to *Wandering Women: Women’s travels in the Early Modern Literature* ##
+## Critical Introduction to *Wandering Women: Women’s travels in the Early Modern Literature* 
 
 <br/>
 [Wanderig Women Dataset](https://drive.google.com/file/d/1FWEZqisqSYZFuDqnRxO5qFYhxYYy05hc/view?usp=sharing)
