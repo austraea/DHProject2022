@@ -12,7 +12,7 @@ comments: true
 
 
 <br/>
-## Critical Introduction to *Wandering Women: Women’s travels in the Early Modern Literature* 
+## Critical Introduction to *Wandering Women: Women’s travels in the Early Modern Literature*
 
 <br/>
 [Wanderig Women Dataset](https://drive.google.com/file/d/1FWEZqisqSYZFuDqnRxO5qFYhxYYy05hc/view?usp=sharing)
@@ -28,6 +28,7 @@ comments: true
 <br/>
 2. Online Databases: the second reference for the Wandering Women dataset is online databases. The curator has searched for data from the following online databases, *English Short Title Catalogue* (*ESTC*), *Women Writers Online* (*WWO*), and *Women’s Travel Writing, 1780-1840*. The most data have been searched at *ESTC* (77out of 133) with keywords selected by the curator and created by *ESTC*. The selected keywords are related to or synonyms of “travel,” author, and regions, and the keywords are classified as follows.
 <br/>
+
 - the mode of travel (adventure, excursion, ramble, travel)
 
 - the author’s name (Anna Trapnel, Aphra Behn, Eliza Fowler, Elizabeth Craven, Francis Burney, Katharine Evans)
@@ -39,7 +40,7 @@ comments: true
  - the mode of traveler (wanderer)
 
  - author’s gender (women as authors)
- 
+
 <br/>
 The curator used more keywords such as expedition, journey, missionary, pilgrimage, Quaker, and voyage, but the desired data could not be obtained with those keywords because all texts searched with those keywords are authored by men or about men. The entries' outcomes with those keywords were scratched by Zotero, and a spreadsheet including all entries’ bibliographic information was created. After that, the curator took the second collecting process, collecting the data about texts by women and/or about women’s travel out of all entries. Compared to ESTC, the rest online databases include a relatively small amount of data. So, the curator set the search criteria with publication year from the 1500s to before the 1800s, and collected the entries’ bibliographic information.
 After collecting data, the curator took the cleaning-data stage. In this stage, the curator added and cleaned messy data. To add the author’s biographical information, such as the year of birth and death and status/job, the curator accessed *ODNB* and searched for individual author’s information. To clean messy data such as printer information, the curator used the Regular Expression tool as much as possible, and erased and regularized symbols such as semicolons and commas in bibliographic data. Also, the curator added travel information of individual texts, referring to the titles and reference books.
@@ -85,4 +86,3 @@ The third one is the number of data. In exploring Voyant, it was discussed that 
 [^2]: D’Ignazio, Katherine and Lauren Klein. “Unicorns, Janitors, Ninjas, Wizards, and Rock Stars,” *Data Feminism*, 2020.
 
 [^3]: Catherine D’Ignazio and Lauren F. Klein, “The Numbers Don’s Speak for Themselves,” *Data Feminism*, 2020.
-
