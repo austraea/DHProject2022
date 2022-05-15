@@ -81,7 +81,7 @@ The third one is the number of data. In exploring Voyant, it was discussed that 
 *The Wandering Women* dataset project is incomplete yet developing. The dataset has been created within a few weeks but needs slow digitalization to contain and provide more cornucopia data for the audience. From the single data to the whole dataset, it connotes and produces various issues that the DH research has encountered. It contains weaknesses the novice DH researcher might show and present, but it also raises relevant questions such as women’s travel writing in the early modern period as well as the creation of a new dataset. From this project, more fruitful data and outcomes, and newly developed DH project are expected to come.
 
 <br/>
-[^1]: Uderwood, Ted. "Digital Humanities as a Semi-Normal Thing," *Debates in the Digital Humanities 2019*, 2019.
+[^1]: Underwood, Ted. "Digital Humanities as a Semi-Normal Thing," *Debates in the Digital Humanities 2019*, 2019.
 
 [^2]: D’Ignazio, Katherine and Lauren Klein. “Unicorns, Janitors, Ninjas, Wizards, and Rock Stars,” *Data Feminism*, 2020.
 
